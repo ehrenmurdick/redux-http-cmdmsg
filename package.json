@@ -1,0 +1,24 @@
+{
+  "name": "redux-http-cmdmsg",
+  "version": "1.0.0",
+  "description": "http middleware for redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehrenmurdick/redux-http-cmdmsg.git"
+  },
+  "keywords": [
+    "redux",
+    "middleware",
+    "http"
+  ],
+  "author": "Ehren Murdick",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ehrenmurdick/redux-http-cmdmsg/issues"
+  },
+  "homepage": "https://github.com/ehrenmurdick/redux-http-cmdmsg#readme"
+}
